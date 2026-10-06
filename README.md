@@ -1,16 +1,33 @@
-## Hi there 👋
+# Oi, eu sou a Tuany ⚡️
 
-<!--
-**TuanyDaumas/TuanyDaumas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tecnologia, criatividade e propósito.**
 
-Here are some ideas to get you started:
+Sou formada em Sistemas de Informação e gosto de transformar ideias e
+necessidades em soluções que sejam funcionais, organizadas e visualmente
+bem pensadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando meus conhecimentos em:
+
+📊 Dados & BI · 🔎 Análise de Sistemas · 🎨 UX/UI · ♿ Acessibilidade
+
+Também gosto de explorar a tecnologia através da criação: identidade
+visual, conteúdo, organização e projetos que unem estética e funcionalidade.
+
+### 💻 O que você vai encontrar por aqui
+
+Projetos, estudos e experimentos que mostram minha evolução em tecnologia —
+do código à análise, da ideia à experiência.
+
+### 🌱 Atualmente
+
+Excel · SQL · Power BI · Python
+
+Conhecimentos prévios: Java · JavaScript · HTML · CSS · PostgreSQL
+
+### 🎓 Formação
+
+Sistemas de Informação
+
+### ↗️ Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/tuany-d-67680598/)
